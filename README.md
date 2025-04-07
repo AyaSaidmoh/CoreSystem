@@ -20,9 +20,6 @@ Redux for state management
 
 TypeScript for enhanced development experience
 
-Installation:
-Clone this repository:
-git clone https://github.com/your-repo-here
 
 Install dependencies:
 npm install
